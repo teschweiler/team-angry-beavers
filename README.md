@@ -1,2 +1,1 @@
-# team-angry-beavers
-# we're really not that angry
+<img src="images/Angry Beavers Sticker.bmp?raw=true"/>
